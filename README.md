@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robert-p-davis
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning Data viualization and interpritation.
+- 🌱 I’m currently learning Data viualization.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
